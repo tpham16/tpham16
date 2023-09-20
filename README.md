@@ -1,14 +1,6 @@
-### 👋 Hi there, I'm Tom Pham 
+### 👋 Hi there 
 
-- 🔭 I’m interested in technology, Python, and AI
+I'm Tom Pham, an aspiring Data Analyst who's passionate about using data to drive insights and make informed decisions. I specialize in Python and am constantly learning and exploring new techniques in data analysis.
 
-- 👀 I'm currently working on personal projects and collaborating on Open Source projects
-
-- 💬 Ask me about Chess Openers ♟️
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tom-pham98/)
-
-- 😄 Pronouns: He/him
-  
-- ⚡ Fun fact: I made a career change from pre-nursing and Python is my first coding language
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tom-pham98/)
 
